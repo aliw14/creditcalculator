@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  position: relative;
+}
+body #result1 {
+  position: absolute;
+  left: 60%;
+  top: 28%;
+  color: black;
+}
+body #result2 {
+  position: absolute;
+  left: 60%;
+  top: 50%;
+  color: black;
+}
+body h3 {
+  font-size: 50px;
+  text-align: center;
+  margin-top: 40px;
+}
+body input {
+  font-size: 40px;
+  display: block;
+}
+body #inp1 {
+  position: absolute;
+  bottom: 64%;
+  left: 24%;
+}
+body #inp2 {
+  position: absolute;
+  left: 24%;
+  bottom: 35%;
+}
+body #inp3 {
+  position: absolute;
+  left: 24%;
+  bottom: 5%;
+}
+body span {
+  font-size: 40px;
+  color: grey;
+}
+body button {
+  position: absolute;
+  left: 60%;
+  bottom: 5%;
+  padding: 25px;
+  background-color: #357BCA;
+  color: white;
+  border-radius: 7px;
+}
+body .box {
+  border: 1px solid grey;
+  width: 50%;
+  margin-top: 40px;
+  margin: 40px 60px;
+  padding: 30px;
+}/*# sourceMappingURL=style.css.map */
